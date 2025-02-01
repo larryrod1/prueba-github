@@ -1,4 +1,4 @@
-# prueba-github
+# Repositorio Jerry-github
 primer proyecto creado en gitHub
 
 ##descripcion
